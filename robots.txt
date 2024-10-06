@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://lutoqeluzeta.pages.dev/sitemap.xml
